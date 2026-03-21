@@ -12,3 +12,4 @@ Hi, I’m Ullash Parameshi. I’m a 1st year CSE Core student at RVCE Bangalore 
 1. Master Full Stack development using React and Node.js.
 2. Understand version control (Git) to prepare for future hackathons and team collaborations.
 3. I want to master MERN stack so I can create functional websites and learn how to collaborate professionally using Git and GitHub.
+
