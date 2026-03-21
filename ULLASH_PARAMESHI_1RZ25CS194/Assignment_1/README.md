@@ -115,3 +115,4 @@ Before submitting, ensure:
 ---
 
 Good luck and happy coding!
+See ullash.md for my full bio and interests.
